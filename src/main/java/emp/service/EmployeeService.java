@@ -1,6 +1,6 @@
-package service;
+package emp.service;
 
-import model.Employee;
+import emp.model.Employee;
 
 import java.util.List;
 

@@ -1,7 +1,5 @@
-package net.javaguides.springboot;
+package emp;
 
-import model.Employee;
-import org.junit.runner.RunWith;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
